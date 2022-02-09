@@ -1,1 +1,1 @@
-# M1-projectgoal-uti
+# M1_Smart_Device_For_Blind_People
